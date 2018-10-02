@@ -1,0 +1,31 @@
+body {
+    font-family: Optima, sans-serif;
+    background-image: url("../images/memphis-colorful.png");
+}
+
+.nav{
+    background-color: #ffb3b3
+}
+.Heading {
+    height: 50%;
+    padding: 85px;
+    text-align:center;
+    font-size: 50px;
+    font-family: Marker Felt, fantasy;
+    font-weight:bold; 
+}
+
+.col {
+    background-color: #f2f2f2;
+    border: 10px solid #ffb3b3
+    
+}
+
+.footer{ 
+    margin-bottom: 20px;
+    padding: 10px 0;
+    background-color: #ffb3b3;
+    border-top: 10px solid #d8f0f3;
+    text-align: center;
+    clear:both;
+}
